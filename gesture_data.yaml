@@ -1,0 +1,5 @@
+train: C:\Users\David\Desktop\model_yolo\dataset\images\train
+val: C:\Users\David\Desktop\model_yolo\dataset\images\validation
+
+numar_clase:   # Numărul total de clase
+names: ['stanga', 'dreapta', 'sus', 'jos', 'stop']
